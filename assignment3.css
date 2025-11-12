@@ -1,0 +1,16 @@
+#container{
+    padding: 4px;
+    height: 60px;
+  margin: 40px;
+  border: 6px;
+  font-weight: bolder;
+}
+.box2{
+    font-weight: bold;
+    width: 400px;
+    margin: 50px auto; 
+    border: 20px solid blue;
+    padding: 40px;
+    background-color: yellow;
+    text-align: center;
+}
