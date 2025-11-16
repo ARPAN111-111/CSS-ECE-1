@@ -1,0 +1,28 @@
+p{
+    text-align: center;
+    font-size: 27px;
+    
+}
+h1{
+    color: red;
+}
+.jk{
+    color: blue;
+    
+}
+.box{
+    color: green;
+    width: 300px;
+    padding: 10px;
+    margin: 5px;
+    padding: 40px;
+    border: 6px solid pink;
+    margin: 3px;
+    background-color: #f0f40d;
+    border: 10px solid rgb(247, 8, 183); 
+    align-content: center;
+    display: inline-block;
+}
+body{
+    text-align: center;
+}
