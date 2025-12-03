@@ -1,0 +1,60 @@
+.body{
+    background-color: #f3f4f7;
+    padding: 10px;
+    margin: 10px;
+}
+.head{
+    background: #1f1f1f;
+    padding: 20px;
+    text-align: center;
+}
+.head h1{
+    color: white;
+    margin: 1px;
+    font-size: 25px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.item{
+    width: 340px;
+    background: white;
+    text-align: left;
+}
+.content{
+    padding: 15px;
+}
+.content h3{
+    margin: 5px;
+    font-size: medium;
+}
+.content p{
+    color: grey;
+    font-size: small;
+    margin: 5px;
+}
+.price-section {
+    margin-bottom: 15px;
+}
+
+.price {
+    color: #0a8f3c;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.old-price{
+    text-decoration: line-through;
+    color: #888;
+    margin-left: 8px;
+}
+.but{
+    width: 100%;
+    padding: 12px;
+    background: #0066ff;
+    color: white;
+    border: none;
+    font-size: 16px;
+}
